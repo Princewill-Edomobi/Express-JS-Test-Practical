@@ -18,7 +18,7 @@ npm run start
 ### Frontend url 
 ```
 
-'http://localhost:3000/home'
+http://localhost:3000/home
 ```
 
 ### Project versions
@@ -28,7 +28,8 @@ Node - v14.15.3
 Mongodb - v4.4.2
 ```
 
-### Database connection
+### Database connection name
 ```
 
-mongodb://127.0.0.1/practical_test
+practical_test
+```
